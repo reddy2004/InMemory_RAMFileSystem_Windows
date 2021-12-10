@@ -12,4 +12,4 @@ I use this filesystem for fast file access for some of my workloads. You cannot 
 
 Of course, you are still limited by the amount of RAM on your system. There is no runtime checks and writing too much of data can cause your system to slow down. 
 
-Use this project to start learning the basics of filesystem or modify this code to suit your needs.
+Use this project to start learning the basics of filesystem or modify this code to suit your needs. If you like this piece of code, please consider 'star'ing it.
